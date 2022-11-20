@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F96v7kzCVQpAc31Mc0Bvc/JU3mupcysdSE4BslarM+9HrRsAhLwTFfTmW9gaNng/d57rd3uFd94x+B5I7/pP/Q==",
+  "dgSpecHash": "p5JRYcSKDwZ3edPFWGFllFIjFG7dXHzQLP4cOr2g/Zo/wT+AgkwLMuKW6NPeMzK+0bdGZakcJq9j68/w5cCdYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tomlo\\Programming\\QuizApp\\QuizApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tomlo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
